@@ -1,4 +1,4 @@
-# [Forkify](https://rizwan230698.github.io/forkify)
+# [Forkify](https://rizwan230698.github.io/9-forkify/)
 ## Introduction
 This is a online Recipe App.
 
@@ -13,4 +13,4 @@ Adjust the ingredients as your need and add to your shoping list.
 * JavaScript
 
 
-![alt text](./src/forkify.png)
+![alt text](./dist/img/forkify.png)
